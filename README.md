@@ -33,4 +33,3 @@
 
 ---
 
-Do you also want me to give you a **one-line ultra-short version** for each project (in case you want a very compact README)?
